@@ -4,7 +4,7 @@ This is my simple blockchain example with a configurable complexity.
 
 Output:
 ```
-## Blockchain with mining complexity of 3
+ ## Blockchain with mining complexity of 3
  -----------------------------------------
  
  Block 0: Block(hash=ec65b5fa378812f6dc1d451d81f53039311a541d845d470944aa54a505aa926f, nonce=genesis, data=Genesis block, previousBlockHash=, timestamp=2019-02-28T22:18:33.216118)
